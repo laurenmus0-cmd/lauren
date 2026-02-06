@@ -14,6 +14,10 @@ print(type(num))
 tax=16.6
 print(tax)
 print(type(tax))
+#complex-whole part and imaginary part donated ny j 2+3j
+x=4+7j
+print(x)
+print(type(x))
 #boolean-True or False
 is_student=True
 print(is_student)
